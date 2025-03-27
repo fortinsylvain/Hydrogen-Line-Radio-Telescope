@@ -1,27 +1,74 @@
-# Hydrogen-Line-Radio-Telescope
+# 🌌 Hydrogen-Line Radio Telescope 
 
-This project goal is to try to detect the Hydrogen Line
-An antenna able to pick-up this frequency of approximately 1420 MHz need to be build.
-A special filter used to collect only these frequency and reject unwanted ones.
-A software define radio serve to measure a radio frequency spectrum.
-Matlab is used to process the data and plot a picture.
+This project aims to **detect the Hydrogen Line**, a spectral emission at **1420 MHz** produced by neutral hydrogen in space.  
+By capturing this signal, we can study the **structure of our galaxy** and explore the universe using radio astronomy.  
 
-## Antenna
-An olive oil can was used. An sma connector installed inside. SMA coax cable used to connect.
-![](Antenna.jpg)
+### 🛠️ Project Overview:  
+✅ **Build an antenna** optimized for 1420 MHz reception  
+✅ **Use a band-pass filter** to isolate the Hydrogen Line  
+✅ **Employ a Software-Defined Radio (SDR)** for signal analysis  
+✅ **Process the data with MATLAB** to generate visualizations  
 
-## Filter
+---
 
-## Amplifier
+## 📡 Antenna  
+An **olive oil can** serves as a waveguide antenna, with an **SMA connector** installed inside.  
+The antenna is connected via an **SMA coaxial cable** for signal transmission.  
 
-## Software define radio
+![Antenna](Antenna.jpg)  
 
-Here is an example of the resulting spetrum measured
-![](H_Line_Spectrum.jpg)
+---
 
-## Matlab and data processing
-Acquiring multiple spectrum capture over two days and ploting on time vertical axis using Matlab give the resulting imege.
-![](H-line waterfall.jpg)
+## 🎛️ Band-Pass Filter  
+A **dedicated filter** is used to **capture only the 1420 MHz signal** while rejecting interference from unwanted frequencies.  
+
+🛑 *Image placeholder (Add a picture of the filter here!)*  
+
+---
+
+## 🔊 Low-Noise Amplifier (LNA)  
+A **low-noise amplifier** boosts weak hydrogen signals for improved detection.  
+
+⚡ *Image placeholder (Add a picture of the amplifier here!)*  
+
+---
+
+## 🖥️ Software-Defined Radio (SDR)  
+An SDR is used to **digitally process** the received signals, allowing fine-tuned frequency selection and spectrum visualization.  
+
+📡 **Example of the measured Hydrogen Line spectrum:**  
+![Hydrogen Line Spectrum](H_Line_Spectrum.jpg)  
+
+---
+
+## 📊 MATLAB & Data Processing  
+By **capturing multiple spectrum measurements over two days** and plotting them over time, we generate a **waterfall plot**, revealing the Hydrogen Line as a distinct signal.  
+
+📈 **Example of a processed waterfall plot:**  
+![H-Line Waterfall Plot](H-line_waterfall.jpg)  
+
+---
+
+### 🚀 Conclusion  
+This project demonstrates that **with simple, low-cost equipment**, it is possible to detect a radio signal that has traveled across the galaxy for thousands of years. **Radio astronomy is within reach for DIY scientists and space enthusiasts!** 🛰️✨  
+
+---
+
+🎯 **Next Steps & Improvements:**  
+- 🔊 **Audio Processing:** Convert radio signals into audible frequencies for a new perspective on data analysis.  
+- 📶 **Advanced Filtering:** Improve signal isolation with better band-pass filters.  
+- 🌍 **Global Collaboration:** Share data with other amateur radio astronomers for deeper insights.  
+
+---
+
+🔗 **Resources & References:**  
+- 📚 NASA on the Hydrogen Line: [https://science.nasa.gov/](https://science.nasa.gov/)  
+- 🔬 GNU Radio & SDR: [https://www.gnuradio.org/](https://www.gnuradio.org/)  
+- 🛰️ Radio Astronomy Guide: [https://www.radioastronomy.com/](https://www.radioastronomy.com/)  
+
+---
+
+⭐ **If you like this project, don't forget to star this repository!** 🌟  
 
 
 

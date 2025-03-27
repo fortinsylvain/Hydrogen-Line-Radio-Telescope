@@ -26,15 +26,11 @@ The filter used is the model Nooelec SAWbird+ H1 Barebones - Premium SAW Filter 
 
 ---
 
-## 🔊 Low-Noise Amplifier (LNA)  
-A **low-noise amplifier** boosts weak hydrogen signals for improved detection.  
-
-⚡ *Image placeholder (Add a picture of the amplifier here!)*  
-
----
-
 ## 🖥️ Software-Defined Radio (SDR)  
 An SDR is used to **digitally process** the received signals, allowing fine-tuned frequency selection and spectrum visualization.  
+Here the link to the model i used:
+[https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/)  
+
 
 📡 **Example of the measured Hydrogen Line spectrum:**  
 ![Hydrogen Line Spectrum](H_Line_Spectrum.jpg)  

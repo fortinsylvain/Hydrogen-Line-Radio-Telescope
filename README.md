@@ -21,8 +21,8 @@ The antenna is connected via an **SMA coaxial cable** for signal transmission.
 
 ## 🎛️ Band-Pass Filter  
 A **dedicated filter** is used to **capture only the 1420 MHz signal** while rejecting interference from unwanted frequencies.  
-
-🛑 *Image placeholder (Add a picture of the filter here!)*  
+The filter used is the model Nooelec SAWbird+ H1 Barebones - Premium SAW Filter & Cascaded Ultra-Low Noise Amplifier (LNA) Module for Hydrogen Line (21cm) Applications. 1420MHz Center Frequency
+[https://www.nooelec.com/store/sawbird-h1-barebones.html?srsltid=AfmBOopjb-XtN-rLLxiDMEoBU-TggP4pCGwZvzOy0aJsINaHosNMAaT5](https://www.nooelec.com/store/sawbird-h1-barebones.html?srsltid=AfmBOopjb-XtN-rLLxiDMEoBU-TggP4pCGwZvzOy0aJsINaHosNMAaT5)  
 
 ---
 
